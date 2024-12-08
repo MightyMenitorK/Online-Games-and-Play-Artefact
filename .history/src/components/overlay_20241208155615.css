@@ -1,0 +1,33 @@
+@import '../App.css'
+
+/* The overlay component */
+.overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 50%; /* Covers half of the screen width */
+    background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-family: 'Quicksand', Arial, sans-serif;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .overlay.left {
+    left: 0;
+  }
+  
+  .overlay.right {
+    right: 0;
+  }
+  
+  .overlay p {
+    text-align: center !important;
+    font-size: 1.5rem !important;
+    line-height: 1.6 !important;
+  }
+  

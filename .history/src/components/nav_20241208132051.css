@@ -1,0 +1,27 @@
+@import '../App.css';
+
+.navbar {
+    display: flex; /* Makes the list items align horizontally */
+    list-style: none; /* Removes bullet points */
+    padding: 0; /* Removes default padding */
+    margin: 0; /* Removes default margin */
+  }
+  
+  .navbar li {
+    margin-right: 20px; /* Adds space between the links */
+  }
+  
+  .navbar li:last-child {
+    margin-right: 0; /* Removes margin from the last item */
+  }
+  
+  .navbar a {
+    text-decoration: none; /* Removes underline from links */
+    color: #d2d9d0; /* Sets the text color */
+    font-family: 'Quicksand Bold', Arial, sans-serif; /* Optional font style */
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline; /* Adds underline when hovered */
+  }
+  

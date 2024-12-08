@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('./resources/fonts/FastHand/Fast\ Hand.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }

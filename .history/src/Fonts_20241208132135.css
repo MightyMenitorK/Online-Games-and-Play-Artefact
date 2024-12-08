@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'FastHand';
+    src: url('./resources/fonts/FastHand/FastHand.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Garet';
+    src: url('./resources/fonts/Garet/Garet-Book.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OldLondon';
+    src: url('./resources/fonts/OldLondon/OldLondon.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand Bold';
+    src: url('./resources/fonts/Quicksand/Quicksand_Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./resources/fonts/Quicksand/Quicksand_Book.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
