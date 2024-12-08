@@ -1,29 +1,40 @@
 {
   "files": {
-    "main.css": "/static/css/main.f4a82976.css",
-    "main.js": "/static/js/main.78ab5ed2.js",
+    "main.css": "/static/css/main.68bc7a4a.css",
+    "main.js": "/static/js/main.501108c8.js",
     "static/js/453.33366895.chunk.js": "/static/js/453.33366895.chunk.js",
     "static/media/banner.mp4": "/static/media/banner.10ef9a5729fc0de4e787.mp4",
+    "static/media/timeline.png": "/static/media/timeline.6c70b38db22cfe102613.png",
     "static/media/Nexa-Heavy.ttf": "/static/media/Nexa-Heavy.13e16a1c3c48dd492fa9.ttf",
+    "static/media/Space Crusade.png": "/static/media/Space Crusade.7b8ae281fd0ebf11c361.png",
     "static/media/Nexa-ExtraLight.ttf": "/static/media/Nexa-ExtraLight.2e3441a81090afda5785.ttf",
+    "static/media/Warhammer 40,000 Space Marine 2.jpg": "/static/media/Warhammer 40,000 Space Marine 2.8a70de23c85682c8a545.jpg",
     "static/media/xenos.png": "/static/media/xenos.ab6e0d2868c9116ea621.png",
     "static/media/Garet-Book.otf": "/static/media/Garet-Book.10cd0ab2fec081ace003.otf",
+    "static/media/Warhammer 40,000 Inquisitor Martyr.jpg": "/static/media/Warhammer 40,000 Inquisitor Martyr.a6da7516ea7c269d61f3.jpg",
     "static/media/Metal Mania.otf": "/static/media/Metal Mania.e1a7cb412a87036b4905.otf",
     "static/media/imperium.png": "/static/media/imperium.301922c8519d2f308f3a.png",
+    "static/media/Battlefleet Gothic Armada.jpg": "/static/media/Battlefleet Gothic Armada.a58328e0041413c69d3a.jpg",
     "static/media/CREATED ATTACHED DEMO.otf": "/static/media/CREATED ATTACHED DEMO.f919ae571183fb51e5a9.otf",
     "static/media/chaos.png": "/static/media/chaos.89f1b6ee6ab32231d017.png",
     "static/media/OldLondon.ttf": "/static/media/OldLondon.a67214b49bb04c352ce8.ttf",
+    "static/media/Warhammer 40,000 Eternal Crusade.jpg": "/static/media/Warhammer 40,000 Eternal Crusade.c10862b245f142269905.jpg",
     "static/media/Quicksand_Bold.otf": "/static/media/Quicksand_Bold.90bf44d43965116d771b.otf",
     "static/media/Quicksand_Book.otf": "/static/media/Quicksand_Book.c86e224d3dd24efee96a.otf",
+    "static/media/Warhammer 40,000 Regicide.png": "/static/media/Warhammer 40,000 Regicide.f05edc8278994e916aa5.png",
+    "static/media/Space Hulk Ascension.jpg": "/static/media/Space Hulk Ascension.920a22bfbabfeaaa7004.jpg",
+    "static/media/Warhammer 40,000 Fire Warrior.jpg": "/static/media/Warhammer 40,000 Fire Warrior.5c4ac0661c8291fd9992.jpg",
     "static/media/FastHand.otf": "/static/media/FastHand.000d92fe5e8f71879964.otf",
+    "static/media/Warhammer 40,000 Dawn of War.jpg": "/static/media/Warhammer 40,000 Dawn of War.d4590d0337eca1e5f377.jpg",
     "static/media/whlogo.webp": "/static/media/whlogo.ed6a2b9c81b5b6e90de9.webp",
+    "static/media/Talisman The Horus Heresy.jpg": "/static/media/Talisman The Horus Heresy.9ce6cf86c69820f93113.jpg",
     "index.html": "/index.html",
-    "main.f4a82976.css.map": "/static/css/main.f4a82976.css.map",
-    "main.78ab5ed2.js.map": "/static/js/main.78ab5ed2.js.map",
+    "main.68bc7a4a.css.map": "/static/css/main.68bc7a4a.css.map",
+    "main.501108c8.js.map": "/static/js/main.501108c8.js.map",
     "453.33366895.chunk.js.map": "/static/js/453.33366895.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4a82976.css",
-    "static/js/main.78ab5ed2.js"
+    "static/css/main.68bc7a4a.css",
+    "static/js/main.501108c8.js"
   ]
 }
