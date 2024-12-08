@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'FastHand';
+    src: url('./resources/fonts/FastHand/FastHand.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Garet';
+    src: url('./resources/fonts/Garet/Garet-Book.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}

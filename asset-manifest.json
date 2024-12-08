@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17b20a17.css",
+    "main.js": "/static/js/main.ed753f97.js",
+    "static/js/453.33366895.chunk.js": "/static/js/453.33366895.chunk.js",
+    "static/media/banner.mp4": "/static/media/banner.10ef9a5729fc0de4e787.mp4",
+    "static/media/Nexa-Heavy.ttf": "/static/media/Nexa-Heavy.13e16a1c3c48dd492fa9.ttf",
+    "static/media/Nexa-ExtraLight.ttf": "/static/media/Nexa-ExtraLight.2e3441a81090afda5785.ttf",
+    "static/media/Garet-Book.otf": "/static/media/Garet-Book.10cd0ab2fec081ace003.otf",
+    "static/media/OldLondon.ttf": "/static/media/OldLondon.a67214b49bb04c352ce8.ttf",
+    "static/media/Quicksand_Bold.otf": "/static/media/Quicksand_Bold.90bf44d43965116d771b.otf",
+    "static/media/Quicksand_Book.otf": "/static/media/Quicksand_Book.c86e224d3dd24efee96a.otf",
+    "static/media/FastHand.otf": "/static/media/FastHand.000d92fe5e8f71879964.otf",
+    "static/media/whlogo.webp": "/static/media/whlogo.ed6a2b9c81b5b6e90de9.webp",
+    "index.html": "/index.html",
+    "main.17b20a17.css.map": "/static/css/main.17b20a17.css.map",
+    "main.ed753f97.js.map": "/static/js/main.ed753f97.js.map",
+    "453.33366895.chunk.js.map": "/static/js/453.33366895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17b20a17.css",
+    "static/js/main.ed753f97.js"
+  ]
+}
